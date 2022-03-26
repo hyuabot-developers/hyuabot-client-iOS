@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  hyuabot
+
+  Created by 이정인 on 2022/03/26.
+  
+*/
+"Shuttle" = "셔틀버스";
+"Bus" = "버스";
+"Subway" = "전철";
+"Cafeteria" = "학식";
+"Reading room" = "열람실";
+"Map" = "지도";
+"Contacts" = "전화부";
+"Calendar" = "학사력";
+"Setting" = "설정";
+"More" = "더보기";
